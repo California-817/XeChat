@@ -1,0 +1,2 @@
+# XtenChat
+使用Xten服务器框架进行对之前的XtenChatRoom项目进行重构
